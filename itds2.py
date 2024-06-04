@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1bCVbmvOWXJ36OjhRQdpS5Bg_3PWwo4MR
 """
 
-pip install streamlit
-
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile TourismPrediction.py
 
